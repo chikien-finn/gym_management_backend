@@ -21,4 +21,8 @@
     <Folder Include="Services\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="C:\Users\kietp\OneDrive\Downloads\HUONG_DAN_DU_AN.md" Link="HUONG_DAN_DU_AN.md" />
+  </ItemGroup>
+
 </Project>
